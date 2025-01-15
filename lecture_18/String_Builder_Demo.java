@@ -3,7 +3,7 @@ package lecture_18;
 public class String_Builder_Demo {
 
 	public static void main(String[] args) {
-		// code
+		// cod
 		StringBuilder sb = new StringBuilder("Hello");
 		System.out.println(sb.capacity());
 		// add
