@@ -4,7 +4,7 @@ import java.util.*;
 public class Arrays_Sum_Of_Two_Arrays {
 
 	public static void main(String[] args) {
-		// code
+		// cod
 	//	int[] arr1 = { 2, 3, 5, 9 };
 	//	int[] arr2 = { 7, 8, 0, 1, 3, 5 };
 
